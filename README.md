@@ -6,14 +6,13 @@ This project is a small custom electronic badge built around the **Seeed Studio 
 
 The main idea is simple: connect the badge to a computer using USB-C, send a picture to it, and have the picture appear on the e-Paper display. Because the display is e-Paper, the image stays visible even after the display stops refreshing.
 
-## Hardware
+## BOM
 
-* Seeed Studio XIAO nRF52840
-* Waveshare 1.54-inch 200×200 monochrome e-Paper Module
+* 1x Seeed Studio XIAO nRF52840
+* 1x 1.54-inch 200×200 monochrome e-Paper Module
 * 1 × push button
-* Battery
-* USB-C cable
-* Jumper wires / PCB connections
+* 1x CR2032 Coin Cell Battery
+* 1x CR2032 Coin Cell Battery holder
 
 ## Pin Connections
 
